@@ -7,6 +7,9 @@ margin:0 0 0 0;
 Input[type=number]{
 width:30px;
 }
+Input[type=number].long{
+width:50px;
+}
 Input[type=text]{
 width:150px;
 }
